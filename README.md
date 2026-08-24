@@ -12,4 +12,4 @@ estudantes da area de tecnologia que tiveram ou estao tendo contanto com o banco
 - docs/03-referencias.md
 
 ## Autoria
-Heduardo da Rocha Serrão, projeto do tik em 
+Heduardo da Rocha Serrão, projeto do tik em trilhas 24/08/2026
